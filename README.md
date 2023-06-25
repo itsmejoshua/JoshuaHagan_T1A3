@@ -29,8 +29,8 @@ Coming Soon
 Source code [https://github.com/itsmejoshua/repo/src](https://github.com/itsmejoshua/repo/src)
 
 ```shell
-git clone https://github.com/itsmejoshua/repo.git
-cd repo/src
+git clone https://github.com/itsmejoshua/JoshuaHagan_T1A3.git
+cd JoshuaHagan_T1A3/src
 chmod +x script.sh
 ./script.sh
 ```
